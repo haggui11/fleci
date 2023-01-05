@@ -1,0 +1,37 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_a6d1376dd89063e09bf2996b114f3edf'] = 'Dziękuję za recenzję. Twój komentarz został dodany!';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_0435232a19f77eac49405b89d0180407'] = 'Dziękuję za recenzję. Będzie dostępny po zatwierdzeniu przez moderatora.';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_4b3979eb95cdb993ddd36748556fb491'] = 'Kryterium nie istnieje dla tego produktu.';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_c565011debb8e2812ef12853eb6a38a9'] = 'Napisz recenzję!';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_f444678e4f3575d59b32a858630741fd'] = 'Napisz swoją recenzję jako pierwszy!';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_08c7d6f84301ee7d0aab0a5f67edc419'] = 'Brak recenzji użytkowników.';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-extra_899139b5174d8d7a6e38a0360008a695'] = 'Przeczytaj recenzje';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-extra_7966126831926ad29c528b239d69f855'] = 'Napisz recenzję';
+$_MODULE['<{ttproductcomments}prestashop>ttproducts-comparison_8413c683b4b27cc3f4dbd4c90329d8ba'] = 'Komentarze';
+$_MODULE['<{ttproductcomments}prestashop>ttproducts-comparison_b1897515d548a960afe49ecf66a29021'] = 'Średni';
+$_MODULE['<{ttproductcomments}prestashop>ttproducts-comparison_bc976f6c3405523cde61f63a7cbe224b'] = 'Zobacz komentarze';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_reviews_d844ad9202d0de8442498775ba6ef819'] = 'Recenzje)';
+$_MODULE['<{ttproductcomments}prestashop>tab_34e80a799d144cfe4af46815e103f017'] = 'Recenzje';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_c31732fda0c6f01c446db7163b214de4'] = 'Napisać recenzję';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_51ec9bf4aaeab1b25bb57f9f8d4de557'] = 'Tytuł:';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_240f3031f25601fa128bd4e15f0a37de'] = 'Komentarz:';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_a2ed44743411cf8b80e397448fce104c'] = 'Twoje imię:';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_70397c4b252a5168c5ec003931cea215'] = 'Wymagane pola';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_d3d2e617335f08df83599665eef8a418'] = 'Blisko';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_a4d3b161ce1309df1c4e25df28694b7b'] = 'Zatwierdź';
+$_MODULE['<{ttproductcomments}prestashop>form_b9aefa40a54680bb258f9f9569290fae'] = 'Nazwa produktu';
+$_MODULE['<{ttproductcomments}prestashop>default_da3e413ae5dde1a6b986203857fb1a59'] = 'Niepoprawny identyfikator produktu';
+$_MODULE['<{ttproductcomments}prestashop>default_7b0bf23ae4079e07a3a4cb4d07e2caef'] = 'Tytuł jest niepoprawny';
+$_MODULE['<{ttproductcomments}prestashop>default_ddbd56de5feb78ef1aaf60401f8c472b'] = 'Komentarz jest niepoprawny';
+$_MODULE['<{ttproductcomments}prestashop>default_1b1030b6294e9096a7d7c40d83d61872'] = 'Nazwa klienta jest niepoprawna';
+$_MODULE['<{ttproductcomments}prestashop>default_26510b8eb6e6053f5e91d51171967ca9'] = 'Musisz być połączony, aby wysłać komentarz';
+$_MODULE['<{ttproductcomments}prestashop>default_a201fbadca94d310a1b62407cdc775d5'] = 'Musisz podać ocenę';
+$_MODULE['<{ttproductcomments}prestashop>default_dfbe69c6d9568ecb0e65e7b32ed92a3a'] = 'produkt nie znaleziony';
+$_MODULE['<{ttproductcomments}prestashop>default_6d10b2f471e8894d59ae18e01537ece5'] = 'Poczekaj, zanim opublikujesz kolejny komentarz';
+$_MODULE['<{ttproductcomments}prestashop>default_ba8d7ae5dcadfba739f28a777378f208'] = 'sekund przed opublikowaniem nowego komentarza';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcommentcriterion_a09ed6c60eb3213939cecb4c580813cd'] = 'Obowiązuje dla całego katalogu';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcommentcriterion_467366059d7d7c743a4d0971363a8d66'] = 'Ograniczone do niektórych kategorii';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcommentcriterion_772911becd336c843ab09a1d4b4f66c0'] = 'Ograniczone do niektórych produktów';

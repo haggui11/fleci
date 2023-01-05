@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/templay9/public_html/demo/Prestashop/PRS05/PRS125_look-me/PRS05/Myadmin" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="0124be93554ffc32cc95b4dab89a8d65">
+        <source>Sign up for Newsletter</source>
+        <target>Suscríbete a la Newsletter</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f73cc399b5ce12735a57f03414f09ef9">
+        <source>Subcategories</source>
+        <target>Subcategorías</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,231 @@
+*{margin:0; padding:0;}
+.wpwl-button{
+    margin-top: 10px !important;
+}
+.btn_cancel {
+    float: left;
+    color: #fff;
+    background-color: #aaa;
+    border-color:#999;
+    border-radius: 4px;
+}
+.btn_cancel:hover {
+    color: #fff;
+    background-color: #999;
+}
+.page-title h1{
+    text-align: left !important;
+}
+
+.box-unreg{
+    padding-bottom:20px;
+}
+.page-title .pt-center{
+    text-align: center !important;
+}
+.text-unreg{
+    margin-bottom: 10px;
+}
+.btnCustom {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #F5F5F5;
+    background-image: linear-gradient(to bottom, #FFFFFF, #E6E6E6);
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) #B3B3B3;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);
+    color: #333333;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Arial, Helvetica,sans-serif;
+    font-size: 14px !important;
+    line-height: normal !important;
+    height: 35px;
+    margin-bottom: 0;
+    padding: 4px 12px;
+    text-align: center;
+    vertical-align: middle;
+}
+.btnCustomSubmit {
+    padding: 8px !important;
+}
+a.btnCustom  {
+    text-decoration: none;
+}
+
+.group {
+    padding : 10px 0px;
+}
+.group-separator {
+    float:left;
+    width: 100%;
+    padding-top : 15px;
+}
+.group-list {
+    width : 100%;
+    float : left;
+}
+.group-add {
+    float:left;
+    width:100%;
+}
+.group-img {
+    float: left;
+    width: 115px;
+    margin-bottom: 10px;
+}
+.brandImage {
+    height : 35px;
+    margin-right: 10px;
+    float : left;
+}
+.group-info {
+    width : 100%;
+    margin-right : 10px;
+    float : left;
+    border :1px solid;
+    max-width: 408px;
+    min-height: 38px;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+.group-button {
+    float: left;
+    margin-bottom: 10px;
+/*	min-width: 350px; */
+}
+.btnDefault {
+    float : left;
+    width : 20%;
+    min-width: 178px;
+    margin-right : 10px;
+    max-width: 178px;
+}
+.btnChange {
+    float : left;
+    width : 15%;
+    margin-right : 10px;
+    min-width: 100px;
+    max-width: 100px;
+}
+.btnDelete {
+    float : left;
+    width : 15%;
+    min-width: 110px;
+    max-width: 110px;
+}
+.btnAdd {
+    float : left;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.btn-custom {
+    background-color: #2fb5d2;
+    color: #fff;
+}
+.btnCustom {
+    height: 35px !important;
+    font-size: 13px !important;
+}
+
+.payment-logo{
+    text-align: center;
+    margin:0 auto;
+    padding:10px 0 20px;
+}
+
+.wpwl-form{
+    max-width: 40em !important;
+    margin: 0 auto 2px !important;
+}
+.frametest{
+    margin:0 auto;
+    width: 100%;
+    border:10px solid red;
+    max-width: 440px;
+    padding:0;
+}
+.testmode{
+    margin:0 auto !important;
+    padding:3px 0 10px 0;
+    width: 100%;
+    font-size: 13px !important;
+    font-weight: bold;
+    color: #fff !important;
+    background-color: red;
+    text-align: center;
+}
+.success-box{
+    margin: 10px 0px;
+    background-color:#EFF5EA;
+    border:1px solid #11B400;
+    padding:5px;
+}
+.error-box{
+    margin: 10px 0px;
+    background-color:#FFE6E6;
+    border:1px solid #FF8E90;
+    padding:5px;
+}
+.cancel_form{
+    float: left;
+    margin-right: 10px;
+}
+
+.register-tooltip{
+     font-size:11px;
+     margin:10px auto;
+     width: 100%;
+     max-width: 430px;
+     padding:0 5px;
+     text-align: center;
+     color : #333;
+}
+
+.page-content {
+    box-shadow: 2px 2px 11px 0px rgba(0, 0, 0, 0.1);
+    background: white;
+    padding: 1rem;
+    font-size: 0.875rem;
+    color: #878787;
+}
+
+@media (max-width: 1199px) {
+    .group-info {
+        margin-right: 0px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+    .group-button {
+        margin-left: 115px;
+    }
+}
+@media (max-width: 484px) {
+    .group-button {
+        width: 100%;
+    }
+    .group-info {
+        max-width: 100%
+    }
+    .btnCustom, .btnDefault, .btnChange, .btnDelete, .btnAdd {
+        width: 100%;
+        min-width: 100%;
+        max-width: 100%;
+        margin-bottom: 5px;
+    }
+}
+
+
+
+
+
+
+
+
+
+

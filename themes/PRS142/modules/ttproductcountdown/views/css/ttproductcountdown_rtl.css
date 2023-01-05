@@ -1,0 +1,13 @@
+.ttproductcountdown {
+    font-size: 12px;
+}
+.ttproductcountdown h4 {
+    margin-top: 0;
+}
+.ttproductcountdown .hide_zero_weeks .weeks {
+    display: none;
+}
+
+#product .pb-center-column .ttproductcountdown {
+    text-align: right;
+}

@@ -1,0 +1,97 @@
+
+.klarna_group_desc {
+    margin-top: 10px;
+}
+
+h1 {
+    font-size: 1.575rem;
+    margin-bottom: 30px;
+}
+
+.box {
+    background: #fbfbfb;
+    border: 1px solid #d6d4d4;
+    padding: 14px 18px 13px;
+    margin: 0 0 30px 0;
+    line-height: 23px;
+    vertical-align: baseline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 1.42857;
+    color: #777777;
+    text-align: left;
+}
+
+.checkbox {
+    float: left;
+    margin-top: 0;
+}
+
+div.checker {
+    float: left;
+    cursor: pointer;
+    margin-right: 5px;
+    width: 15px;
+    height: 15px;
+    position: relative;
+    vertical-align: middle;
+    height: 30px;
+    margin-top: 5px;
+}
+
+.klarna_terms {
+    text-align: left;
+    display: inline;
+    margin-bottom: 0;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.klarna_button_submit {
+    float: right;
+    border-radius: 4px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    background: #43b754;
+    background-image: linear-gradient(to bottom, #43b754 0%, #42ac52 100%);
+    background-repeat: repeat-x;
+    box-sizing: border-box;
+    margin: 0;
+    text-transform: none;
+    font-family: inherit;
+    white-space: nowrap;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.klarna_button_back {
+    border: none;
+    background: none;
+    padding: 0;
+    font-size: 17px;
+    font-weight: bold;
+    color: #333;
+    margin: 9px 0 0 0;
+}
+
+.cart_nav{
+    margin-top: 60px;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    color: #777;
+}
+
+
+
+
+
+
+
+

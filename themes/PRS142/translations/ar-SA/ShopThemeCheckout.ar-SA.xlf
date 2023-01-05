@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/templay9/public_html/demo/Prestashop/PRS05/PRS125_look-me/PRS05/Myadmin" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="544c3bd0eac526113a9c66542be1e5bc">
+        <source>Product successfully added to your shopping cart</source>
+        <target>تمت إضافة المنتج بنجاح إلى عربة التسوق الخاصة بك</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0eede552438475bdfe820c13f24c9399">
+        <source>Total price</source>
+        <target>السعر الكلي</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="db205f01b4fd580fb5daa9072d96849d">
+        <source>Total products</source>
+        <target>إجمالي المنتجات</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="66c4c5112f455a19afde47829df363fa">
+        <source>Total:</source>
+        <target>المجموع</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="856ab109229e8acfcddd5c6766a8d956">
+        <source>Subtotal:</source>
+        <target>المجموع الفرعي:</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

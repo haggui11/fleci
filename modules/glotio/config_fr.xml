@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>glotio</name>
+    <displayName><![CDATA[Glotio - Traduire votre Prestashop!]]></displayName>
+    <version><![CDATA[3.6.9]]></version>
+    <description><![CDATA[Traduisez votre boutique en plusieurs langues rapidement et automatiquement. Boostez votre SEO et le marketing instantan&eacute;ment.]]></description>
+    <author><![CDATA[Sellboost Solutions]]></author>
+    <tab><![CDATA[i18n_localization]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

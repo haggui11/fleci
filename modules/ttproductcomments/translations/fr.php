@@ -1,0 +1,37 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_a6d1376dd89063e09bf2996b114f3edf'] = 'Merci pour vttre avis. Vttre commentaire a été ajouté!';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_0435232a19f77eac49405b89d0180407'] = 'Merci pour vttre avis. Il sera disponible une fois approuvé par un modérateur.';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_4b3979eb95cdb993ddd36748556fb491'] = 'Le critère n\'existe pas pour ce produit.';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_c565011debb8e2812ef12853eb6a38a9'] = 'Donnez vttre avis!';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_f444678e4f3575d59b32a858630741fd'] = 'Soyez le premier à rédiger votre avis!';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_08c7d6f84301ee7d0aab0a5f67edc419'] = 'Aucun avis client pour le moment.';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-extra_899139b5174d8d7a6e38a0360008a695'] = 'Lire les avis';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-extra_7966126831926ad29c528b239d69f855'] = 'Donnez vttre avis';
+$_MODULE['<{ttproductcomments}prestashop>ttproducts-comparison_8413c683b4b27cc3f4dbd4c90329d8ba'] = 'commentaires';
+$_MODULE['<{ttproductcomments}prestashop>ttproducts-comparison_b1897515d548a960afe49ecf66a29021'] = 'Moyenne';
+$_MODULE['<{ttproductcomments}prestashop>ttproducts-comparison_bc976f6c3405523cde61f63a7cbe224b'] = 'voir commentaires';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments_reviews_d844ad9202d0de8442498775ba6ef819'] = 'Commentaires)';
+$_MODULE['<{ttproductcomments}prestashop>tab_34e80a799d144cfe4af46815e103f017'] = 'Commentaires';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_c31732fda0c6f01c446db7163b214de4'] = 'Écrire une critique';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_51ec9bf4aaeab1b25bb57f9f8d4de557'] = 'Titre:';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_240f3031f25601fa128bd4e15f0a37de'] = 'Commentaire:';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_a2ed44743411cf8b80e397448fce104c'] = 'Vttre nom:';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_70397c4b252a5168c5ec003931cea215'] = 'Champs obligatoires';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_d3d2e617335f08df83599665eef8a418'] = 'Fermer';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcomments-modal_a4d3b161ce1309df1c4e25df28694b7b'] = 'Soumettre';
+$_MODULE['<{ttproductcomments}prestashop>form_b9aefa40a54680bb258f9f9569290fae'] = 'Nom du produit';
+$_MODULE['<{ttproductcomments}prestashop>default_da3e413ae5dde1a6b986203857fb1a59'] = 'ID de produit incorrect';
+$_MODULE['<{ttproductcomments}prestashop>default_7b0bf23ae4079e07a3a4cb4d07e2caef'] = 'Le titre est incorrect';
+$_MODULE['<{ttproductcomments}prestashop>default_ddbd56de5feb78ef1aaf60401f8c472b'] = 'Le commentaire est incorrect';
+$_MODULE['<{ttproductcomments}prestashop>default_1b1030b6294e9096a7d7c40d83d61872'] = 'Le nom du client est incorrect';
+$_MODULE['<{ttproductcomments}prestashop>default_26510b8eb6e6053f5e91d51171967ca9'] = 'Vous devez être connecté pour envoyer un commentaire';
+$_MODULE['<{ttproductcomments}prestashop>default_a201fbadca94d310a1b62407cdc775d5'] = 'Vous devez donner une ntte';
+$_MODULE['<{ttproductcomments}prestashop>default_dfbe69c6d9568ecb0e65e7b32ed92a3a'] = 'Produit non trouvé';
+$_MODULE['<{ttproductcomments}prestashop>default_6d10b2f471e8894d59ae18e01537ece5'] = 'Veuillez patienter avant de poster un autre commentaire';
+$_MODULE['<{ttproductcomments}prestashop>default_ba8d7ae5dcadfba739f28a777378f208'] = 'secondes avant de poster un nouveau commentaire';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcommentcriterion_a09ed6c60eb3213939cecb4c580813cd'] = 'Valable pour tout le catalogue';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcommentcriterion_467366059d7d7c743a4d0971363a8d66'] = 'Limité à certaines catégories';
+$_MODULE['<{ttproductcomments}prestashop>ttproductcommentcriterion_772911becd336c843ab09a1d4b4f66c0'] = 'Limité à certains produits';

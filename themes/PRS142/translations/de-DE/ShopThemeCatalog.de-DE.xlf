@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/onthemes/public_html/demo/Prestashop/Presta01/OTP009_blooming/Myadmin" source-language="de-DE" target-language="de-DE" datatype="plaintext">
+    <body>
+      <trans-unit id="dd10db96a17e61971efdd3966da7d4bf">
+        <source>You Might Also Like</source>
+        <target>Das könnte dir auch gefallen</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ba7073dab08ac067c8dc1082d45a1be5">
+        <source>Customers Also Bought This Product:</source>
+        <target>Kunden kauften auch dieses Produkt:</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'fleci',
+    'database_user' => 'root',
+    'database_password' => 'nB3Z*:rJq93#|6fY',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '4BibCjF3k5Tu5ocyoGPymQYjcDzb3WIUKIxmze25pBezqUkOXqv8P3iDLxLW1yQv',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-06-26',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'STdTgEz3EkT5ZvRfPYWgEkFh3K1uZYKHyrtn6yXj4xAK6ocEKKPvFOZcLry19SvN',
+    'cookie_iv' => '8tDTZZMMHNw37FW6Vh2onGPE4LznCWJF',
+    'new_cookie_key' => 'def0000087ffbf8b180443cd43498449362ce13dc6b8ffe779ff391080a0d95618c2d5e1be27dd0b9b9ea5584503da2bbd2478521d9edd74824786d90ac9a726b9eb41af',
+  ),
+);

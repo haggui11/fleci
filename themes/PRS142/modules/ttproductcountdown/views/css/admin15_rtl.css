@@ -1,0 +1,297 @@
+.ttpc15 #ttpc-new-block-btn {
+    padding: 3px 10px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+}
+
+.ps15.ttpc-sources-wrp {
+    margin-bottom: 20px;
+}
+
+.ps15.ttpc-sources-wrp label {
+    width: auto;
+}
+
+.ps15 .btn-toggle-children-sources {
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.ps15 .checkbox-level-1 {
+    margin-right: 270px;
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+}
+
+.ps15 .checkbox-level-1 .checkbox {
+    margin-right: 10px;
+    margin-bottom: 0px;
+    display: block;
+    clear: both;
+}
+
+.ttpc15 table.ttpc_block .dropdown-toggle {
+    display: none;
+}
+
+.ttpc15 table.ttpc_block .dropdown-menu {
+    display: inline-block;
+}
+
+.ps15 #apr-product {
+    width: 400px;
+    max-width: 100%;
+}
+
+ttpc_more_options_row.ps15,
+.ttpc_more_app_options_row.ps15 {
+    background: white;
+    padding-top: 15px;
+}
+
+.ttpc_more_options_row.ps15 .margin-form,
+.ttpc_more_app_options_row.ps15 .margin-form {
+    padding-bottom: 0;
+}
+
+.ttpc15 #ttpc-countdown-list .ttpc-items-toggle {
+    background: none;
+    position: relative;
+    top: -2px;
+}
+.ttpc15 .icon-caret-down {
+    border: solid #555;
+    border-width: 0 0 2px 2px;
+    display: inline-block;
+    padding: 2px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.ttpc15 .icon-caret-up {
+    border: solid #555;
+    border-width: 0 0 2px 2px;
+    display: inline-block;
+    padding: 2px;
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+}
+.ttpc15 .ttpc-item-link-wrp a {
+    color: #436eb2;
+}
+.ttpc15 .ttpc-item-link-wrp a:hover {
+    text-decoration: underline;
+}
+
+.ttpc15 .label {
+    display: inline;
+    padding: 0.15em 0.4em;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.ttpc15 .label-success {
+    background-color: #72C279;
+}
+.ttpc15 .label-danger {
+    background-color: #E08F95;
+}
+.ttpc15 .label-default {
+    background-color: #999;
+}
+.ttpc15 .label-primary {
+    background-color: #3d7ee0;
+}
+.ttpc15 .btn-group-action .dropdown-toggle {
+    display: none;
+}
+.ttpc15 .btn-group-action .dropdown-menu {
+    display: inline-block;
+}
+.ttpc15 .form-group {
+    padding: 4px 0;
+    overflow: hidden;
+}
+.ttpc15 label {
+    font-weight: normal;
+}
+.ttpc15 .label-tooltip {
+    text-decoration: none;
+    font-size: 13px;
+    color: #3586AE;
+    background-color: #edf7fb;
+    border: none;
+    border-bottom: solid 1px #D8EDF7;
+    padding: 0 5px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+/* Tooltip container */
+.ttpc15 .label-tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+/* Tooltip text */
+.ttpc15 .label-tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    right: 50%;
+    margin-right: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-weight: normal;
+    text-shadow: none;
+}
+
+/* Tooltip arrow */
+.ttpc15 .label-tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    right: 50%;
+    margin-right: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.ttpc15 .label-tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.ttpc15 .ttpc-prodselects-wrp select {
+    width: 100%;
+    padding: 5px;
+}
+.ttpc15 .btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 8px;
+    font-size: 12px;
+    line-height: 1.42857;
+    border-radius: 3px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.ttpc15 .btn-default {
+    color: #363A41;
+    background-color: #fff;
+    border-color: #DEDEDE;
+}
+.ttpc15 .btn-xs, .ttpc15 .btn-group-xs>.btn {
+    padding: 1px 5px;
+    font-size: 11px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+.ttpc15 .btn:hover, .ttpc15 .btn:focus {
+    color: #363A41;
+    text-decoration: none;
+}
+.ttpc15 .btn:active, .ttpc15 .btn.active {
+    outline: 0;
+    background-image: none;
+    -webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,0.125);
+    box-shadow: inset 0 3px 5px rgba(0,0,0,0.125);
+}
+.ttpc15 .btn-default:hover, .ttpc15 .btn-default:focus, .ttpc15 .btn-default:active, .ttpc15 .btn-default.active, .open>.ttpc15 .btn-default.dropdown-toggle {
+    color: #363A41;
+    background-color: #e6e6e6;
+    border-color: #bfbfbf;
+}
+.ttpc15 .btn.btn-default:hover {
+    color: #fff;
+    background-color: #00aff0;
+    border-color: #008abd;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.ttpc15 .ttpc-search-combinations-label {
+    float: none;
+    display: inline-block;
+}
+.ttpc15 .ttpc-select-wrp-products h4 {
+    padding: 0;
+    margin: 0;
+}
+.ttpc15 .ttpc-product-search {
+    width: 100%;
+    padding: 5px;
+}
+.ttpc15 .badge.badge-info {
+    background-color: #25b9d7;
+}
+.ttpc15 .btn-default .badge {
+    color: #fff;
+}
+.ttpc15 .badge {
+    padding: 1px 5px;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: inherit;
+    letter-spacing: 0.0625em;
+    background-color: #00aff0;
+}
+.ttpc15 .badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 5px;
+    font-size: 11px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 1;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-align: center;
+    background-color: #999;
+    border-radius: 10px;
+}
+.ttpc15 .ttpc-prodselects-wrp .category-filter {
+    overflow: hidden;
+}
+.ttpc15 #PRODUCT_LIST_POSITION {
+    margin-right: 10px;
+}
+.ttpc15 .ttpc-list-position-group {
+    float: none !important;
+    margin-bottom: 10px;
+}
+.ttpc15 .ttpc-colors-wrp {
+    overflow: hidden;
+    clear: both;
+    padding-right: 260px;
+}
+.ttpc15 #Module_form_submit_btn {
+    margin-top: 15px;
+}
+.ttpc15.pstg-tabs {
+    overflow: hidden;
+}
+.ttpc15 .edit-countdown-wrp .datepicker-row {
+    margin-bottom: 15px;
+}
